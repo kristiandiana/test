@@ -37,6 +37,9 @@ Date to be completed by: *TBD*
 - **Milestone 3:** Increase the number of diseases that the model can identify. Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Increase functionality of the web application; implement additional features such as ability to login, drag and drop file upload, and possibly storing of patient information. Note: This would require a database. Date to be completed by: *TBD*
 - **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application. Date to be completed by: *TBD*
 
+![Figure 2](images/Figure2.png)
+<p align="center"><em>Figure 2: Example of Milestone 4 back-end improvements.</em></p>
+
 ### Tech Stack
 *Note: The project is ***not*** limited to the technologies listed below!*
 
