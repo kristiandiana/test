@@ -30,9 +30,9 @@ The goal of the ocular disease identifier is to both detect any symptoms of ocul
 ### Project Timeline
 
 
-- **Milestone 1 (MVP):** Overview of backend minimum viable product requirements. Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). The model should be functioning for ***one*** ocular disease (Ex. Glaucoma).
+- **Milestone 1 (MVP):** Overview of backend minimum viable product requirements. Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). The model should be functioning for ***only one*** ocular disease (Ex. Glaucoma) at this point.
 Date to be completed by: *TBD*
-- **Milestone 2 (MVP):** Overview of frontend minimum viable product requirements. 
+- **Milestone 2 (MVP):** Overview of frontend minimum viable product requirements. Develop an API using a python framework (Ex. Flask). Develop a user-friendly, and aesthetically pleasing web application that is able to make requests to the API. The frontend application must be able to accept image files and submit them to the API.
 Date to be completed by: *TBD*
 - **Milestone 3:** Description, Date
 - ...
