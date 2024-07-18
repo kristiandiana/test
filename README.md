@@ -131,17 +131,25 @@ Below we define the Definition of Done for this project, i.e. what needs to the 
 ### High Level Goals for Each Sprint
 
 
-#### <u>Milestone 1</u>
+#### <u>Milestone 1 (Back-End MVP)</u>
 
-**Sprint 1**: [Description of what features will be achieved by the end of this sprint], [Expected length of sprint in weeks (Should be 1-2 weeks)]. 
+**Sprint 1**: Select a public dataset on ocular diseases that will be used as training data. Use pandas to access the data and format it in a dataframe that will be used later. *Expected length of sprint: 2 weeks.* 
 
-**Sprint 2**: ...
+**Sprint 2**: Research use of OpenCV to ensure dataset images will be usable during the model training. *Expected length of sprint: 2 weeks.* 
+
+**Sprint 3**: Begin development of the CNN and train the model on *one* ocular disease. Assess the model accuracy using a sample of the initial training data.*Expected length of sprint: 3-4 weeks.* 
  
-#### <u>Milestone 2</u>
+#### <u>Milestone 2 (Front-End MVP)</u>
 
-**Sprint 3**: ... 
+**Sprint 1**: Create a design for the web app using Figma or other tool, and select a web development framework. Develop the basic functionality of the web app in the /Front-End repository (must be able to upload image files). *Expected length of sprint: 3 weeks.*
 
-...
+**Sprint 2**: Select a python framework to develop the API with (options listed above). Develop an API within with /API directory using the selected framework. *Expected length of sprint: 3 weeks.*
+
+**Sprint 3**: Integrate the API with the frontend by making a request to the API from the frontend. The frontend must be able to submit an image file to the API, and receive a string message back. *Expected length of sprint: 2 weeks.*
+
+#### <u>Milestone 3</u>
+
+**Sprint x**: *Expected length of sprint: x weeks.* 
 
 ### Sprint Planning 
 Sprint planning will be done at each weekly meeting (aka. Scrum Ceremonies) and will be organized using the Monday.com team Kanban Board.
