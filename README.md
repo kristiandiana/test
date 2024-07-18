@@ -69,7 +69,7 @@ Date to be completed by: *TBD*
 
 
 ### Project Structure 
-Backend developers will work in the backend directory in which the model will be developed. The model will then be integrated into the API, developed by the frontend developers. The frontend can then make requests to the model through the API, and receive a response accordingly. 
+Backend devs will work in the backend directory in which the model will be developed. The model will then be integrated into the API directory that will be developed by the frontend devs. The frontend can then access the model through the API, and receive a response accordingly. 
 
 ![Figure 3](images/Figure3.png)
 <p align="center"><em>Figure 3: Potential Structure of Project.</em></p>
