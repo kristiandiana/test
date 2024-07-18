@@ -17,7 +17,7 @@ The goal of the ocular disease identifier is to both detect any symptoms of ocul
 2. Develop a secure web application that allows Opthamologists to efficiently access the AI model.
 
 ![Figure 1](images/Figure1.png)
-<p align="center"><em>Figure 1: High Level Overview of Project Backend.</em></p>
+<p align="center"><em>Figure 1: High Level Overview of Project Back-End.</em></p>
 
 ### Stakeholders
 
@@ -38,6 +38,7 @@ Date to be completed by: *TBD*
 - **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application. Date to be completed by: *TBD*
 
 ### Tech Stack
+Below is a list of potential technologies that will be used to develop the project. *Note: The project is not limited to these technologies listed below!*
 
 - **Frontend Framework Options:**
   - Web Application: ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
