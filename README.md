@@ -17,7 +17,7 @@ The goal of the ocular disease identifier is to both detect any symptoms of ocul
 2. Develop a secure website that allows Optometrists/Opthamologists to efficiently access the AI model
 
 ![Figure 1](images/Figure1.png)
-<p align="center"><em>Figure 1: Caption describing the image.</em></p>
+<p align="center"><em>Figure 1: High Level Overview of Project Backend.</em></p>
 
 ### Stakeholders
 
@@ -28,10 +28,12 @@ The goal of the ocular disease identifier is to both detect any symptoms of ocul
 ## :compass: Implementation Plan
 
 ### Project Timeline
-*Describe the major project milestones that you will aim for over the course of the year. Milestones should be oriented around the level of completeness your project attains toward the end product. It's a good idea to have Milestone 1 be a minimum viable product, something that satisfies the main business logic of the product with minimal code, then work to improving the project through following milestones. That was you can insure a working product by the end of the year.*
 
-- **Milestone 1 (MVP):** Description, Date
-- **Milestone 2:** Description, Date
+
+- **Milestone 1 (MVP):** Backend minimum viable product requirements. 
+Date to be completed by: 
+- **Milestone 2 (MVP):** Frontend minimum viable product requirement 
+Date to be completed by: 
 - **Milestone 3:** Description, Date
 - ...
 
