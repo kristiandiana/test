@@ -4,7 +4,7 @@
   * [:bulb: Project Description](#bulb-project-description)
   * [:compass: Implementation Plan](#compass-implementation-plan)
   * [:clipboard: Team Management](#clipboard-team-management)
-  * [:athletic_shoe: Sprint Planning](#athletic-shoe-sprint-planning)
+  * [:athletic_shoe: Sprint Planning](#athletic_shoe-sprint-planning)
 
 ## :bulb: Project Description
 
