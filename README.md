@@ -35,12 +35,12 @@ Date to be completed by: *TBD*
 - **Milestone 2 (MVP):** Overview of frontend minimum viable product requirements. Develop an API using a python framework (Ex. Flask, Django, etc.). Develop a user-friendly, and aesthetically pleasing web application that is able to handle requests to the API. The frontend application must be able to accept image files and submit them to the API.
 Date to be completed by: *TBD*
 - **Milestone 3:** Increase the number of diseases that the model can identify. Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Increase functionality of the web application; implement additional features such as ability to login, drag and drop file upload, and possibly storing of patient information. Note: This would require a database. Date to be completed by: *TBD*
-- **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application. 
+- **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application. Date to be completed by: *TBD*
 
 ### Tech Stack
 
 - **Frontend Framework Options:**
- - **Web Application:** ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  - **Web Application:** ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   - **API:** ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
