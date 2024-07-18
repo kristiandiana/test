@@ -72,6 +72,7 @@ Date to be completed by: *TBD*
 *Describe the high-level structure of the project, including directories, modules, and how components/modules interact. For instance, you may need a frontend directory and a backend directory. In your backend directory you may have a designated module for different components of the project, etc. Keep it high level and don't include biolerplate. Include a diagram if you'd like!*
 
 ![Figure 3](images/Figure3.png)
+<p align="center"><em>Figure 3: Potential Structure of Project.</em></p>
 
 ### API Documentation
 *Optional: Include some high-level descriptions of the APIs that will need to be developed. You can organize this however you'd like.*
