@@ -13,8 +13,8 @@ Did you know that over 30% of Canadians over the age of 65 suffer from ocular di
 The goal of the ocular disease identifier is to both detect any symptoms of ocular disease that go unnoticed during examination, and be able to offer a valid second opinion. This project does not aim to replace professional eye examinations, but is rather meant to act as a failsafe mechanism that accounts for human error. To ensure real world usability, the identifier should be quick, simple to use, and store any patient information securely and in compliance with standard privacy policies.
 
 ### Objectives
-1. Build and train an AI model to identify ocular diseases using patient fundus images (see Figure 1 below)
-2. Develop a secure website that allows Optometrists/Opthamologists to efficiently access the AI model
+1. Build and train an AI model to identify ocular diseases using patient fundus images (see Figure 1 below).
+2. Develop a secure website that allows Optometrists/Opthamologists to efficiently access the AI model.
 
 ![Figure 1](images/Figure1.png)
 <p align="center"><em>Figure 1: High Level Overview of Project Backend.</em></p>
@@ -32,10 +32,10 @@ The goal of the ocular disease identifier is to both detect any symptoms of ocul
 
 - **Milestone 1 (MVP):** Overview of backend minimum viable product requirements. Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). The model should be functioning for ***only one*** ocular disease (Ex. Glaucoma) at this point.
 Date to be completed by: *TBD*
-- **Milestone 2 (MVP):** Overview of frontend minimum viable product requirements. Develop an API using a python framework (Ex. Flask). Develop a user-friendly, and aesthetically pleasing web application that is able to make requests to the API. The frontend application must be able to accept image files and submit them to the API.
+- **Milestone 2 (MVP):** Overview of frontend minimum viable product requirements. Develop an API using a python framework (Ex. Flask, Django, etc.). Develop a user-friendly, and aesthetically pleasing web application that is able to handle requests to the API. The frontend application must be able to accept image files and submit them to the API.
 Date to be completed by: *TBD*
-- **Milestone 3:** Description, Date
-- ...
+- **Milestone 3:** Increase the number of diseases that the model can identify. Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Increase functionality of the web application; implement additional features such as ability to login, drag and drop file upload, and possibly storing of patient information. Note: This would require a database. Date to be completed by: *TBD*
+- **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application.  
 
 ### Tech Stack
 *Determine a list of options for your tech stack. Ideally at this point, you'd list multiple frameworks that you'd pick from later, after onboarding your developers, so that you know what your team mates are most comfortable/interested in working with.*
