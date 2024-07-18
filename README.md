@@ -1,10 +1,10 @@
 # Ocular Disease Identifier Planning & Documentation 
 
 ## Table of Contents
-  * [:bulb: Project Description](#-bulb--project-description)
-  * [:compass: Implementation Plan](#-compass--implementation-plan)
-  * [:clipboard: Team Management](#-clipboard--team-management)
-  * [:athletic_shoe: Sprint Planning](#-athletic-shoe--sprint-planning)
+  * [:bulb: Project Description](#bulb-project-description)
+  * [:compass: Implementation Plan](#compass-implementation-plan)
+  * [:clipboard: Team Management](#clipboard-team-management)
+  * [:athletic_shoe: Sprint Planning](#athletic-shoe-sprint-planning)
 
 ## :bulb: Project Description
 
@@ -117,13 +117,12 @@ Backend devs will work in the backend directory in which the model will be devel
 We will be using Monday.com as a way to organize our project as use of this system will make it easy for us to adhere to the Scrum framework. We will use a Kanban Board style system which will allow sprint progress to be easily monitored. Tickets (tasks) will be assigned to members, and are expected to be completed by a designated due date. 
 
 ### Code Acceptance: The Definition of Done
-*You may edit the below DoD to match your project/preferences.*
 
 Below we define the Definition of Done for this project, i.e. what needs to the included in a pull request for the pull request to be accepted by the Product Owner:
 - Code Complete (satisfies feature associated to the ticket)
 - Passed Code Review by Scrum Master
 - Passed Unit Tests/Other testing developed for the feature
-- Documentation Updated
+- Documentation Updated (Sufficient Commenting)
 - Ready to be integrated with Main Branch (no merge conflicts)
 
 
