@@ -14,7 +14,7 @@ The goal of the ocular disease identifier is to both detect any symptoms of ocul
 
 ### Objectives
 1. Build and train an AI model to identify ocular diseases using patient fundus images (see Figure 1 below).
-2. Develop a secure website that allows Optometrists/Opthamologists to efficiently access the AI model.
+2. Develop a secure web application that allows Opthamologists to efficiently access the AI model.
 
 ![Figure 1](images/Figure1.png)
 <p align="center"><em>Figure 1: High Level Overview of Project Backend.</em></p>
