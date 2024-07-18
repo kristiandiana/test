@@ -55,7 +55,8 @@ Date to be completed by: *TBD*
 - **Other Technologies/Libraries:**
   - Data Processing: ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-  - Hosting & Deployment Options: ![GKE](https://img.shields.io/badge/GKE-%233498DB.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AKS](https://img.shields.io/badge/Azure%20Kubernetes%20Service-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  - Hosting & Deployment: ![GKE](https://img.shields.io/badge/GKE-%233498DB.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 
