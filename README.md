@@ -43,12 +43,6 @@ Date to be completed by: *TBD*
   - Web Application: ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   - API:  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-
- 
-
-
-
-
 - **Backend Framework:**
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -60,11 +54,6 @@ Date to be completed by: *TBD*
 
 
   - Styling Options: ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-
-
-
 
 
 
@@ -97,12 +86,12 @@ Backend devs will work in the backend directory in which the model will be devel
 
 
 ### Team Communication
-*You should be meeting with your team mates weekly. For this section, document a meeting frequency for reviews and retrospectives. Times will be chosen after onboarding.*
+
 - **Communication Platform:** Discord
 - **Meeting Schedule:**
-  - Sprint Review: [Time and Frequency]
-  - Sprint Retrospective: [Time and Frequency]
-  - Other Meetings: [Specify]
+  - Sprint Review: [Time and Weekly]
+  - Sprint Retrospective: [Time and TBD]
+  - Other Meetings: [Potential for in-person coding sessions depending on team availability]
 
 ### Roles and Responsibilities
 *This section defines the responsibility of each role, you may edit to fit your project's needs.*
@@ -124,7 +113,7 @@ Backend devs will work in the backend directory in which the model will be devel
   - Report defects
 
 ### Collaboration Tools
-*Pick a collaboration/organization tool that will be used to define your sprint timelines, including the milestones you defined earlier. You should be able to integrate GitHub issues into this tool, and it should be kept up to date over the course of the project [e.g., GitHub Projects, Kanban boards, etc.]*
+We will be using Monday.com as a way to organize our project as use of this system will make it easy for us to adhere to the Scrum framework. We will use a Kanban Board style system which will allow sprint progress to be easily monitored. Tickets (tasks) will be assigned to members, and are expected to be completed by a designated due date. 
 
 ### Code Acceptance: The Definition of Done
 *You may edit the below DoD to match your project/preferences.*
