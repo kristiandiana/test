@@ -35,12 +35,14 @@ Date to be completed by: *TBD*
 - **Milestone 2 (MVP):** Overview of frontend minimum viable product requirements. Develop an API using a python framework (Ex. Flask, Django, etc.). Develop a user-friendly, and aesthetically pleasing web application that is able to handle requests to the API. The frontend application must be able to accept image files and submit them to the API.
 Date to be completed by: *TBD*
 - **Milestone 3:** Increase the number of diseases that the model can identify. Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Increase functionality of the web application; implement additional features such as ability to login, drag and drop file upload, and possibly storing of patient information. Note: This would require a database. Date to be completed by: *TBD*
-- **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application.  
+- **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application. 
 
 ### Tech Stack
-*Determine a list of options for your tech stack. Ideally at this point, you'd list multiple frameworks that you'd pick from later, after onboarding your developers, so that you know what your team mates are most comfortable/interested in working with.*
-- **Frontend Framework:** [e.g., React, Angular, Vue.js]
-- **Backend Framework:** [e.g., Node.js, Django, Spring Boot]
+
+- **Frontend Framework Options:** [e.g., React, Angular, Vue.js]
+- **Backend Framework Options:** [e.g., Node.js, Django, Spring Boot]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 - **Database:** [e.g., PostgreSQL, MySQL, MongoDB]
 - **Other Technologies/Libraries:**
   - Technology 1
