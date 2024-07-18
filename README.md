@@ -74,35 +74,25 @@ Backend devs will work in the backend directory in which the model will be devel
 ![Figure 3](images/Figure3.png)
 <p align="center"><em>Figure 3: Potential Structure of Project.</em></p>
 
-### API Documentation
-*Optional: Include some high-level descriptions of the APIs that will need to be developed. You can organize this however you'd like.*
-- **API Endpoint:** [URL]
-- **API Documentation Tool:** [e.g., Swagger, Postman]
+
   
 ### Testing & CI/CD
 *Your project should have a formal testing plan that will complement the code acceptance of each pull request. The tests themselves may be written by your devs, but you should try to define a plan/framework for how they should write/execute their tests. It be great if you could integrate automated testing and deployment, but manual testing works as well. Describe the test plans, metrics/measures you'll use such as coverage, and tools such as specific testing frameworks that match your tech stack, automation tools like GitHub Actions, Jenkins, etc.*
 
-### Hosting 
-*Optional: if you plan to use services to host and deploy the application list them below. Later on, you can append an architecture diagram to this section.*
-- **Application Hosting:** [e.g., GKE, AWS, Heroku, Azure]
-- **Database Hosting:** [e.g., Google Cloud Storage, AWS RDS, MongoDB Atlas]
-- **Additional Services:** []
 
 ## :clipboard: Team Management
 
 ### Team Members
-*For now, determine approximately how many developers and of what type you would need for your project. After recruitment and onboarding, list the names that will fulfill each role*
-- **Scrum Master & Product Owner:** [Lead's Name]
-- **Frontend Developers:**
+
+- **Scrum Master & Product Owner:** [Kristian Diana]
+- **Frontend Developers (2):**
   - [Name]
   - [Name]
-- **Backend Developers:**
-  - [Name]
-  - [Name]
-- **_Other Type_ Developers:**
+- **Backend Developers (3):**
   - [Name]
   - [Name]
   - [Name]
+
   
 
 
