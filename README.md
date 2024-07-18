@@ -69,7 +69,7 @@ Date to be completed by: *TBD*
 
 
 ### Project Structure 
-*Describe the high-level structure of the project, including directories, modules, and how components/modules interact. For instance, you may need a frontend directory and a backend directory. In your backend directory you may have a designated module for different components of the project, etc. Keep it high level and don't include biolerplate. Include a diagram if you'd like!*
+Backend developers will work in the backend directory in which the model will be developed. The model will then be integrated into the API, developed by the frontend developers. The frontend can then make requests to the model through the API, and receive a response accordingly. 
 
 ![Figure 3](images/Figure3.png)
 <p align="center"><em>Figure 3: Potential Structure of Project.</em></p>
