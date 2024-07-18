@@ -68,9 +68,6 @@ Backend devs will work in the backend directory in which the model will be devel
 <p align="center"><em>Figure 3: Potential Structure of Project.</em></p>
 
 
-  
-### Testing & CI/CD
-*Your project should have a formal testing plan that will complement the code acceptance of each pull request. The tests themselves may be written by your devs, but you should try to define a plan/framework for how they should write/execute their tests. It be great if you could integrate automated testing and deployment, but manual testing works as well. Describe the test plans, metrics/measures you'll use such as coverage, and tools such as specific testing frameworks that match your tech stack, automation tools like GitHub Actions, Jenkins, etc.*
 
 
 ## :clipboard: Team Management
@@ -79,12 +76,12 @@ Backend devs will work in the backend directory in which the model will be devel
 
 - **Scrum Master & Product Owner:** [Kristian Diana]
 - **Frontend Developers (2):**
-  - [Name]
-  - [Name]
+  - [Name TBD]
+  - [Name TBD]
 - **Backend Developers (3):**
-  - [Name]
-  - [Name]
-  - [Name]
+  - [Name TBD]
+  - [Name TBD]
+  - [Name TBD]
 
   
 
@@ -132,7 +129,7 @@ Below we define the Definition of Done for this project, i.e. what needs to the 
 
 ## :athletic_shoe: Sprint Planning
 ### High Level Goals for Each Sprint
-*This section is meant to facilitate your future sprint planning, and allow you to estimate a more detailed project timeline. For each milestone you defined, break it up into 2-4 sprints, and describe the goals as well as expected duration for each sprint.*
+
 
 #### <u>Milestone 1</u>
 
@@ -147,26 +144,9 @@ Below we define the Definition of Done for this project, i.e. what needs to the 
 ...
 
 ### Sprint Planning 
-*Below is a template for sprint planning for your future use. You can follow it as much as you'd like, so long as you're able to generate reasonably sized tickets for your members each sprint, and said tickets will bring you to your milestones by the target date you declared.*
+Sprint planning will be done at each weekly meeting (aka. Scrum Ceremonies) and will be organized using the Monday.com team Kanban Board.
 
-*Some more resources for sprint Planning:*
+*Here is some additional information on Sprint Planning and the Scrum Framework!*
 - *[Atlassian: Sprint Planning](https://www.atlassian.com/agile/scrum/sprint-planning#:~:text=What%20is%20sprint%20planning%3F,with%20the%20whole%20scrum%20team.)*
 - *[Scrum in 20 mins](https://www.youtube.com/watch?v=SWDhGSZNF9M&ab_channel=CodexCommunity)*
 
-#### Sprint Duration
-- _Sprint Length:_ [e.g., 2 weeks]
-- _Start Date:_ [Date]
-- _End Date:_ [Date]
-
-#### High Level Sprint Goals
-1. Goal 1
-2. Goal 2
-3. Goal 3
-
-#### User Stories (Sample)
-
-| ID   | User Story                                  | Priority | Story Points | Assignee |
-|------|---------------------------------------------|----------|--------------|----------|
-| US01 | As a [user role], I want to [feature]       | High     | 5            | Dev A    |
-| US02 | As a [user role], I want to [feature]       | Medium   | 3            | Dev B    |
-| US03 | As a [user role], I want to [feature]       | Low      | 2            | Dev C    |
