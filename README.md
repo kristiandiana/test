@@ -38,7 +38,7 @@ Date to be completed by: *TBD*
 - **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application. Date to be completed by: *TBD*
 
 ![Figure 2](images/Figure2.png)
-<p align="center"><em>Figure 2: Example of Milestone 4 back-end improvements.</em></p>
+<p align="center"><em>Figure 2: Example of Milestone 4 Back-End Improvements.</em></p>
 
 ### Tech Stack
 *Note: The project is ***not*** limited to the technologies listed below!*
