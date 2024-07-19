@@ -158,3 +158,6 @@ Sprint planning will be done at each weekly meeting (aka. Scrum Ceremonies) and 
 - *[Atlassian: Sprint Planning](https://www.atlassian.com/agile/scrum/sprint-planning#:~:text=What%20is%20sprint%20planning%3F,with%20the%20whole%20scrum%20team.)*
 - *[Scrum in 20 mins](https://www.youtube.com/watch?v=SWDhGSZNF9M&ab_channel=CodexCommunity)*
 
+
+### Sources
+[1] https://www150.statcan.gc.ca/n1/pub/82-003-x/2022012/article/00003-eng.htm
