@@ -75,7 +75,8 @@ Backend devs will work in the backend directory in which the model will be devel
 ### Team Members
 
 - **Scrum Master & Product Owner:** [Kristian Diana]
-- **Frontend Developers (2):**
+- **Frontend & API Developers (2):**
+  - [Name TBD]
   - [Name TBD]
   - [Name TBD]
 - **Backend Developers (3):**
@@ -114,7 +115,7 @@ Backend devs will work in the backend directory in which the model will be devel
   - Report defects
 
 ### Collaboration Tools
-We will be using Monday.com as a way to organize our project as use of this system will make it easy for us to adhere to the Scrum framework. We will use a Kanban Board style system which will allow sprint progress to be easily monitored. Tickets (tasks) will be assigned to members, and are expected to be completed by a designated due date. 
+We will be using GitHub Projects as a way to organize our project as use of this system will make it easy for us to adhere to the Scrum framework. We will use a Kanban Board style system which will allow sprint progress to be easily monitored. Issues will be assigned to developers, and are expected to be completed by a designated due date. Developers will work in a branch, then submit a pull request to be reviewed by the Scrum Master before being merged to the main branch, ultimately closing the respective issue. 
 
 ### Code Acceptance: The Definition of Done
 
