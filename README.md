@@ -2,8 +2,7 @@
 
 <div align="center">
 
-*Hello and welcome to one of the 2024 GDSC Open Source project repos! Project run by [Kristian Diana](https://github.com/kristiandiana).
-*
+*Hello and welcome to one of the 2024 GDSC Open Source project repos! Project run by [Kristian Diana](https://github.com/kristiandiana).*
 
 
 
