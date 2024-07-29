@@ -4,9 +4,6 @@
 
 ### [View the Planning Document](./PLAN.md)
 
-<hr style="border: 0; border-top: 0.5px solid #ccc;">
-
-
 
 *Hello and welcome to one of the 2024 GDSC Open Source project repos! Project Lead: [Kristian Diana](https://github.com/kristiandiana).*
 
@@ -17,6 +14,17 @@ If **you** are interested in learning about how AI can make a difference in the 
 
 ![Figure 1](images/Figure1.png)
 <p align="center"><em>Figure 1: High Level Visualization of Project.</em></p>
+
+
+## Available Developer Positions :busts_in_silhouette
+
+Whether you are interested in machine learning, api development, or frontend development, this project has something for you! 
+
+The team will comprise of two sub-teams; the Frontend & API sub-team, and the Backend sub-team. 
+The Frontend & API sub-team will be responsible for the development of a web application, and python api. The Backend sub-team will be responsible for the development and training of a convolutional neural network (CNN) using TensorFlow. For a more detailed overview of exactly what each sub-team will work on, please see the attached [Planning Document](./PLAN.md)
+
+There will be **3 available positions** for **each sub-team**. As a side note, being assigned to a specific sub-team does not necessarily mean you will not learn about the other, but it will be where the bulk of your contributions will be made.
+
 
 ### [View the Planning Document](./PLAN.md)
 
