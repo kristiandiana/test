@@ -4,7 +4,8 @@
 
 ### [View the Planning Document](./PLAN.md)
 
----
+<hr style="border: 0; border-top: 1px solid #ccc;">
+
 
 
 *Hello and welcome to one of the 2024 GDSC Open Source project repos! Project Lead: [Kristian Diana](https://github.com/kristiandiana).*
