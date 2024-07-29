@@ -1,7 +1,6 @@
+# :eye: Ocular Disease Identifier :stethoscope:
+
 <div align="center">
-
-# :eye: Ocular Disease 
-
 
 ### :loudspeaker::bell::eye::health_worker::stethoscope::hospital:
 
