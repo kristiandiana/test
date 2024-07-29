@@ -3,8 +3,13 @@
 <div align="center">
 
 ### [View the Planning Document](./PLAN.md)
-*Hello and welcome to one of the 2024 GDSC Open Source project repos! Project Lead: [Kristian Diana](https://github.com/kristiandiana).*
 
+***
+---
+___
+
+
+*Hello and welcome to one of the 2024 GDSC Open Source project repos! Project Lead: [Kristian Diana](https://github.com/kristiandiana).*
 
 
 ## :loudspeaker: Attention :bangbang:
