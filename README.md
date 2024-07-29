@@ -4,7 +4,7 @@
 
 ### [View the Planning Document](./PLAN.md)
 
-<hr style="border: 0; border-top: 1px solid #ccc;">
+<hr style="border: 0; border-top: 0.5px solid #ccc;">
 
 
 
