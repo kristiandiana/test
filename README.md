@@ -16,7 +16,7 @@ If **you** are interested in learning about how AI can make a difference in the 
 <p align="center"><em>Figure 1: High Level Visualization of Project.</em></p>
 
 
-## Available Developer Positions :busts_in_silhouette
+## Available Developer Positions :busts_in_silhouette:
 
 Whether you are interested in machine learning, api development, or frontend development, this project has something for you! 
 
