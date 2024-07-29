@@ -2,6 +2,8 @@
 
 <div align="center">
 
+*Hello and welcome to one of the 2024 GDSC Open Source project repos! Project run by Kristian Diana.*
+
 ### :loudspeaker::bell::eye::health_worker::stethoscope::hospital:
 
 ## :loudspeaker: Attention :bangbang:
