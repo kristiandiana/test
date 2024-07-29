@@ -76,7 +76,7 @@ Backend devs will work in the backend directory in which the model will be devel
 ### Team Members
 
 - **Scrum Master & Product Owner:** [Kristian Diana]
-- **Frontend & API Developers (2):**
+- **Frontend & API Developers (3):**
   - [Name TBD]
   - [Name TBD]
   - [Name TBD]
