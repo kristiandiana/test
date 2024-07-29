@@ -1,4 +1,4 @@
-# :eye: Ocular Disease Identifier :stethoscope:
+<h1 align="center"> :eye: Ocular Disease Identifier :stethoscope:</h1>
 
 <div align="center">
 
