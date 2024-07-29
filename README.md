@@ -1,4 +1,6 @@
-<div align="center"><h1>:eye: Ocular Disease Identifier :stethoscope:</h1>
+<div align="center">
+# :eye: Ocular Disease 
+
 
 ### :loudspeaker::bell::eye::health_worker::stethoscope::hospital:
 
