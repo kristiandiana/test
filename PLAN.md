@@ -62,7 +62,7 @@ Date to be completed by: *TBD*
 
 
 
-### Project Structure 
+### Project Structure :open_file_folder:
 Backend devs will work in the backend directory in which the model will be developed. The model will then be integrated into the API directory that will be developed by the frontend devs. The frontend can then access the model through the API, and receive a response accordingly. 
 
 ![Figure 3](images/Figure3.png)
@@ -154,7 +154,7 @@ Below we define the Definition of Done for this project, i.e. what needs to the 
 **Sprint x**: *Expected length of sprint: x weeks.* 
 
 ### Sprint Planning 
-Sprint planning will be done at each weekly meeting (aka. Scrum Ceremonies) and will be organized using the Monday.com team Kanban Board.
+Sprint planning will be done at each weekly meeting (aka. Scrum Ceremonies) and will be organized using the GitHub Projects Kanban Board.
 
 *Here is some additional information on Sprint Planning and the Scrum Framework!*
 - *[Atlassian: Sprint Planning](https://www.atlassian.com/agile/scrum/sprint-planning#:~:text=What%20is%20sprint%20planning%3F,with%20the%20whole%20scrum%20team.)*
