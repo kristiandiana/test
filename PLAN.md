@@ -70,7 +70,7 @@ Backend devs will work in the backend directory in which the model will be devel
 
 ### Hosting 
 ![Figure 4](images/Architecture.png)
-<p align="center"><em>Figure 3: Architecture Diagram.</em></p>
+<p align="center"><em>Figure 4: Architecture Diagram.</em></p>
 
 ## :clipboard: Team Management
 
