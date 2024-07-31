@@ -68,8 +68,9 @@ Backend devs will work in the backend directory in which the model will be devel
 ![Figure 3](images/Figure3.png)
 <p align="center"><em>Figure 3: Potential Structure of Project.</em></p>
 
-
-
+### Hosting 
+![Figure 4](images/Architecture.png)
+<p align="center"><em>Figure 3: Architecture Diagram.</em></p>
 
 ## :clipboard: Team Management
 
