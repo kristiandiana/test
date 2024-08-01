@@ -11,7 +11,7 @@
 ### Problem Statement
 Did you know that over 30% of Canadians over the age of 65 suffer from ocular diseases such as glaucoma, cataracts, and diabetic retinopathy [1]? Unfortunately, many cases go undiagnosed since it is difficult for opthalmologists to detect these diseases, particularly in their early stages. Although these diseases are more prevalent in the elderly community, they affect people of all demographics and ages. When left untreated, symptoms of eye disease can quickly worsen, potentially leading to blindness. But what if there were a way to change this? Imagine if we could use machine learning to combat this issue by creating a tool that could help identify these diseases.
 
-The goal of the ocular disease identifier is to both detect any symptoms of ocular disease that go unnoticed during examination, and be able to offer a valid second opinion. This project does not aim to replace professional eye examinations, but is rather meant to act as a failsafe mechanism that accounts for human error. To ensure real world usability, the identifier should be quick, simple to use, and store any patient information securely and in compliance with standard privacy policies.
+The goal of the ocular disease identifier is to both detect any symptoms of ocular disease that go unnoticed during examination, and be able to offer a valid second opinion. This project does not aim to replace professional eye examinations, but is rather meant to act as a failsafe mechanism that accounts for human error. To ensure real world usability, the identifier should be accurate, simple to use, and store any patient information securely and in compliance with standard privacy policies.
 
 ### Objectives
 1. Build and train an AI model to identify ocular diseases using patient fundus images (see Figure 1 below).
@@ -31,18 +31,18 @@ The goal of the ocular disease identifier is to both detect any symptoms of ocul
 ### Project Timeline
 
 
-- **Milestone 1 (MVP):** Overview of backend minimum viable product requirements. Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). The model should be functioning for ***only one*** ocular disease (Ex. Glaucoma) at this point.
+- **Milestone 1 (MVP-Backend):** Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset. The model should be functioning for ***only one*** ocular disease (Ex. Glaucoma) at this point.
 Date to be completed by: *TBD*
-- **Milestone 2 (MVP):** Overview of frontend minimum viable product requirements. Develop an API using a python framework (Ex. Flask, Django, etc.). Develop a user-friendly, and aesthetically pleasing web application that is able to handle requests to the API. The frontend application must be able to accept image files and submit them to the API.
+- **Milestone 1 (MVP-Frontend):** Develop an API using a Python framework (Ex. Flask, Django, etc.). Develop a user-friendly, and functional web application that is able to handle requests to the API. The frontend application must be able to accept image files and submit them to the API.
 Date to be completed by: *TBD*
-- **Milestone 3:** Increase the number of diseases that the model can identify. Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Increase functionality of the web application; implement additional features such as ability to login, drag and drop file upload, and possibly storing of patient information. Note: This would require a database. Date to be completed by: *TBD*
-- **Milestone 4:** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Host and deploy the application. Date to be completed by: *TBD*
+- **Milestone 2:** Increase the number of diseases that the model can identify. Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Increase functionality of the web application; implement additional features such as ability to login, drag and drop file upload, and possibly storing of patient information. Note: This would require a database. Date to be completed by: *TBD*
+- **Milestone 3 :** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Deploy the application. Date to be completed by: *TBD*
 
 ![Figure 2](images/Figure2.png)
 <p align="center"><em>Figure 2: Example of Milestone 4 Back-End Improvements.</em></p>
 
 ### Tech Stack
-*Note: The project is ***not*** limited to the technologies listed below, but most **will** be required for this project!*
+*Note: The project is ***not*** limited to the technologies listed below, but many **will** be required for this project!*
 
 
 - **Frontend Framework Options:**
@@ -134,31 +134,35 @@ Below we define the Definition of Done for this project, i.e. what needs to the 
 
 
 ## :athletic_shoe: Sprint Planning
-### High Level Goals for Each Sprint
 
+### High Level Goals for Each Sprint
 
 #### <u>Milestone 1 (Back-End MVP)</u>
 
-**Sprint 1**: Select a public dataset on ocular diseases that will be used as training data. Use pandas to access the data and format it in a dataframe that will be used later. *Expected length of sprint: 2 weeks.* 
+Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset. The model should be functioning for ***only one*** ocular disease (Ex. Glaucoma) at this point.
 
-**Sprint 2**: Research use of OpenCV to ensure dataset images will be usable during the model training. *Expected length of sprint: 2 weeks.* 
+**Sprint 1**: Select a public dataset on ocular diseases that will be used as training data, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). Use pandas to access the data and NumPy format it in a dataframe that will be used later. *Expected length of sprint: 2 weeks.* 
 
-**Sprint 3**: Begin development of the CNN and train the model on *one* ocular disease. Assess the model accuracy using a sample of the initial training data.*Expected length of sprint: 3-4 weeks.* 
+**Sprint 2**: Build the CNN and train the model on *one* ocular disease (binary image classification). Assess the accuracy of the model using Matplotlib. Save the model. *Expected length of sprint: 3-4 weeks.* 
+
+**Sprint 3**: Upload the saved model to a Google Cloud bucket. Develop a Python function that imports the model from the bucket, and uses it to make predictions. Integrate this function with the Python API, ensuring that image parameters are reshaped correctly. *Expected length of sprint: 3 weeks.* 
+
  
-#### <u>Milestone 2 (Front-End MVP)</u>
+#### <u>Milestone 1 (Front-End MVP)</u>
 
-**Sprint 1**: Create a design for the web app using Figma or other tool, and select a web development framework. Develop the basic functionality of the web app in the /Front-End repository (must be able to upload image files). *Expected length of sprint: 3 weeks.*
+Develop an API using a Python framework (Ex. Flask, Django, etc.). Develop a web application that is able to handle requests to the API with image files. 
 
-**Sprint 2**: Select a python framework to develop the API with (options listed above). Develop an API within with /API directory using the selected framework. *Expected length of sprint: 3 weeks.*
+**Sprint 1**: Select a Python framework to develop the API with (options listed above). Develop an API within the /API directory that can handle POST requests. Test the API using Postman. *Expected length of sprint: 3 weeks.*
 
-**Sprint 3**: Integrate the API with the frontend by making a request to the API from the frontend. The frontend must be able to submit an image file to the API, and receive a string message back. *Expected length of sprint: 2 weeks.*
+**Sprint 2**: Create a design for the web app using Figma or other tool, and select a web development framework. Develop the basic functionality of the web app in the /Front-End repository (must be able to upload image files). *Expected length of sprint: 4 weeks.*
 
-#### <u>Milestone 3</u>
+**Sprint 3**: Integrate the API with the frontend by making a POST request to the API from the frontend. The frontend must be able to submit an image file to the API, and receive a JSON message back. *Expected length of sprint: 2 weeks.*
 
-**Sprint x**: *Expected length of sprint: x weeks.* 
+#### <u>Milestone 2</u>
 
-### Sprint Planning 
-Sprint planning will be done at each weekly meeting (aka. Scrum Ceremonies) and will be organized using the GitHub Projects Kanban Board.
+**Sprint 1**: *Expected length of sprint: x weeks.* 
+
+### Additional Information & Resources
 
 *Here is some additional information on Sprint Planning and the Scrum Framework!*
 - *[Atlassian: Sprint Planning](https://www.atlassian.com/agile/scrum/sprint-planning#:~:text=What%20is%20sprint%20planning%3F,with%20the%20whole%20scrum%20team.)*
