@@ -42,7 +42,7 @@ Date to be completed by: *TBD*
 <p align="center"><em>Figure 2: Example of Milestone 4 Back-End Improvements.</em></p>
 
 ### Tech Stack
-*Note: The project is ***not*** limited to the technologies listed below!*
+*Note: The project is ***not*** limited to the technologies listed below, but most **will** be required for this project!*
 
 
 - **Frontend Framework Options:**
