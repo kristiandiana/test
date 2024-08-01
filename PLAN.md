@@ -135,8 +135,6 @@ Below we define the Definition of Done for this project, i.e. what needs to the 
 
 ## :athletic_shoe: Sprint Planning
 
-### High Level Goals for Each Sprint
-
 ### <u>Milestone 1 (Back-End MVP)</u>
 
 Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset. The model should be functioning for ***only one*** ocular disease (Ex. Glaucoma) at this point.
