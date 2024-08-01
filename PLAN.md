@@ -137,38 +137,66 @@ Below we define the Definition of Done for this project, i.e. what needs to the 
 
 ### High Level Goals for Each Sprint
 
-#### <u>Milestone 1 (Back-End MVP)</u>
+### <u>Milestone 1 (Back-End MVP)</u>
 
 Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset. The model should be functioning for ***only one*** ocular disease (Ex. Glaucoma) at this point.
 
-**Sprint 1-2**: Select a public dataset on ocular diseases that will be used as training data, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). Use pandas to access the data and NumPy format it in a dataframe that will be used later. *Expected length of sprint: 2 weeks.* 
+**Sprint 1-2**: 
+- Select a public dataset on ocular diseases that will be used as training data, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). 
+- Use pandas to access the data and NumPy format it in a dataframe that will be used later. 
+- *Expected length of sprint: 2 weeks.* 
 
-**Sprint 3-4**: Organize the data into training and testing data. Build the CNN and train the model on *one* ocular disease (binary image classification). Assess the accuracy of the model using Matplotlib. Save the model. *Expected length of sprint: 3-4 weeks.* 
+**Sprint 3-4**: 
+- Organize the data into training and testing data. 
+- Build the CNN and train the model on *one* ocular disease (binary image classification). 
+- Assess the accuracy of the model using Matplotlib. Save the model. 
+- *Expected length of sprint: 3-4 weeks.* 
 
-**Sprint 5**: Upload the saved model to a Google Cloud bucket. Develop a Python function that imports the model from the bucket, and uses it to make predictions. Integrate this function with the Python API, ensuring that image parameters are reshaped correctly. *Expected length of sprint: 3 weeks.* 
+**Sprint 5**: 
+- Upload the saved model to a Google Cloud bucket. 
+- Develop a Python function that imports the model from the bucket, and uses it to make predictions. Integrate this function with the Python API, ensuring that image parameters are reshaped correctly. 
+- *Expected length of sprint: 3 weeks.* 
 
  
-#### <u>Milestone 1 (Front-End MVP)</u>
+### <u>Milestone 1 (Front-End MVP)</u>
 
 Develop an API using a Python framework (Ex. Flask, Django, etc.). Develop a web application that is able to handle requests to the API with image files. 
 
-**Sprint 1-2**: Select a Python framework to develop the API with (options listed above). Develop an API within the /API directory that can handle POST requests with image files. Test the API using Postman. *Expected length of sprint: 3 weeks.*
+**Sprint 1-2**: 
+- Select a Python framework to develop the API with (options listed above). 
+- Develop an API within the /API directory that can handle POST requests with image files. Test the API using Postman. 
+- *Expected length of sprint: 3 weeks.*
 
-**Sprint 3-4**: Create a design for the web app using Figma or other tool, and select a web development framework. Develop the basic functionality of the web app in the /Front-End repository (must be able to upload image files). *Expected length of sprint: 4 weeks.*
+**Sprint 3-4**: 
+- Create a design for the web app using Figma or other tool, and select a web development framework. 
+- Develop the basic functionality of the web app in the /Front-End repository (must be able to upload image files). 
+- *Expected length of sprint: 4 weeks.*
 
-**Sprint 5**: Integrate the API with the frontend by making a POST request to the API from the frontend. The frontend must be able to submit an image file to the API, and receive a JSON message back. *Expected length of sprint: 2 weeks.*
+**Sprint 5**: 
+- Integrate the API with the frontend by making a POST request to the API from the frontend. The frontend must be able to submit an image file to the API, and receive a JSON message back. 
+- *Expected length of sprint: 2 weeks.*
 
-#### <u>Milestone 2</u>
+### <u>Milestone 2</u>
 
-**Sprint 6-7**: Increase the number of diseases that the model is able to identify. Improve frontend user experience using CSS framework of choice, and by implementing additional features such as drag and drop file upload. *Expected length of sprint: 3 weeks.* 
+**Sprint 6-7**: 
+- Increase the number of diseases that the model is able to identify. 
+- Improve frontend user experience using CSS framework of choice, and by implementing additional features such as drag and drop file upload. 
+- *Expected length of sprint: 3 weeks.* 
 
-**Sprint 8**: Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Add ability to login on frontend and store profile information. *Expected length of sprint: 3 weeks.*
+**Sprint 8**: 
+- Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Add ability to login on frontend and store profile information. 
+- *Expected length of sprint: 3 weeks.*
 
 #### <u>Milestone 3</u>
 
-**Sprint 9**: Containerize both the API and Frontend, and deploy the application on GCP (see *Figure 4: Architecture Diagram*) *Expected length of sprint: 3 weeks.* 
+**Sprint 9**: 
+- Containerize both the API and Frontend, and deploy the application on GCP (see *Figure 4: Architecture Diagram*) 
+- *Expected length of sprint: 3 weeks.* 
 
-**Sprint 10 (if time permits)**: Perform additional image processing, such as image masking of the diseased location. Additional frontend features, such as profile analytics. *Expected length of sprint: 3 weeks.*
+**Sprint 10**: 
+- Perform additional image processing, such as image masking of the diseased location. 
+- Additional frontend features, such as profile analytics. 
+- *To be completed with remaining time.*
 
 
 
