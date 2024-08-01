@@ -9,15 +9,16 @@
 
 ## :loudspeaker: Attention :bangbang:
 
-If **you** are interested in learning about how AI can make a difference in the healthcare field, then you are in the right place! The *ocular disease identifier* project involves developing a AI model that can predict whether common ocular diseases are present in a fundus image (see *Figure 1*).
-
+If **you** are interested in learning about how AI can make a difference in the healthcare field, then you are in the right place! Whether you are interested in machine learning, API development, or web development, this project has something for you! 
 
 ## Project Overview :page_with_curl: 
+
+The *ocular disease identifier* project involves developing a AI model that can predict whether common ocular diseases are present in a fundus image (see *Figure 1*).
 
 ![Figure 1](images/Figure1.png)
 <p align="center"><em>Figure 1: High Level Visualization of Project.</em></p>
 
-Whether you are interested in machine learning, API development, or web development, this project has something for you! 
+
 
 The team will comprise of two sub-teams; the Frontend sub-team, and the Backend sub-team. 
 The Frontend sub-team will be responsible for the development of a web application, and python api. The Backend sub-team will be responsible for the development and training of a convolutional neural network (CNN) using TensorFlow. For a more detailed overview of exactly what each sub-team will work on, please see the attached [Planning Document](./PLAN.md).
