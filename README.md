@@ -5,8 +5,6 @@
 
 *Hello and welcome to one of the 2024 McMaster GDSC Open Source project repos! Project Lead: [Kristian Diana](https://github.com/kristiandiana).*
 
-### [View the Planning Document](./PLAN.md)
-
 
 
 ## :loudspeaker: Attention :bangbang:
@@ -14,7 +12,10 @@
 If **you** are interested in learning about how AI can make a difference in the healthcare field, then you are in the right place! The *ocular disease identifier* project involves developing a AI model that can predict whether common ocular diseases are present in a fundus image (see *Figure 1*).
 
 
-## Project Overview :scroll: :bookmark_tabs: :page_with_curl: :open_book: :clipboard:
+## Project Overview :page_with_curl: 
+
+![Figure 1](images/Figure1.png)
+<p align="center"><em>Figure 1: High Level Visualization of Project.</em></p>
 
 Whether you are interested in machine learning, API development, or web development, this project has something for you! 
 
@@ -22,8 +23,7 @@ The team will comprise of two sub-teams; the Frontend sub-team, and the Backend 
 The Frontend sub-team will be responsible for the development of a web application, and python api. The Backend sub-team will be responsible for the development and training of a convolutional neural network (CNN) using TensorFlow. For a more detailed overview of exactly what each sub-team will work on, please see the attached [Planning Document](./PLAN.md).
 
 
-![Figure 1](images/Figure1.png)
-<p align="center"><em>Figure 1: High Level Visualization of Project.</em></p>
+
 
 
 ## Available Developer Positions :busts_in_silhouette:
@@ -38,6 +38,6 @@ There will be ***3 available positions for each of the two sub-teams*** (6 total
 
 --------------------------
 good emojis
-### :loudspeaker::bell::eye::health_worker::stethoscope::hospital: :open_file_folder: :file_folder:
+### :loudspeaker::bell::eye::health_worker::stethoscope::hospital: :open_file_folder: :file_folder:  :scroll: :open_book: :clipboard: :bookmark_tabs:
 
 </div>
