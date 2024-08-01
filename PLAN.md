@@ -17,7 +17,7 @@ The goal of the ocular disease identifier is to both detect any symptoms of ocul
 1. Build and train an AI model to identify ocular diseases using patient fundus images (see Figure 1 below).
 2. Develop a secure web application that allows Opthalmologists to efficiently access the AI model.
 
-![Figure 1](images/Figure1.png)
+![Figure 1](./Documentation/images/Figure1.png)
 <p align="center"><em>Figure 1: High Level Overview of Project Back-End.</em></p>
 
 ### Stakeholders
@@ -38,7 +38,7 @@ Date to be completed by: *TBD*
 - **Milestone 2:** Increase the number of diseases that the model can identify. Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Increase functionality of the web application; implement additional features such as ability to login, drag and drop file upload, and possibly storing of patient information. Note: This would require a database. Date to be completed by: *TBD*
 - **Milestone 3 :** Implement additional image processing, so that the model will inform the user of the location of the disease (See Figure 2). Deploy the application. Date to be completed by: *TBD*
 
-![Figure 2](images/Figure2.png)
+![Figure 2](./Documentation/images/Figure2.png)
 <p align="center"><em>Figure 2: Example of Milestone 4 Back-End Improvements.</em></p>
 
 ### Tech Stack
@@ -68,11 +68,11 @@ Date to be completed by: *TBD*
 ### Project Structure :open_file_folder:
 Backend devs will work in the backend directory in which the model will be developed. The model will then be integrated into the API directory that will be developed by the frontend devs. The frontend can then access the model through the API, and receive a response accordingly. 
 
-![Figure 3](images/Figure3.png)
+![Figure 3](./Documentation/images/Figure3.png)
 <p align="center"><em>Figure 3: Potential Structure of Project.</em></p>
 
 ### Deployment Plan
-![Figure 4](images/Architecture.png)
+![Figure 4](./Documentation/images/Architecture.png)
 <p align="center"><em>Figure 4: Architecture Diagram.</em></p>
 
 ## :clipboard: Team Management
