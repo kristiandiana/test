@@ -140,7 +140,7 @@ Below we define the Definition of Done for this project, i.e. what needs to the 
 Build a convolutional neural network (CNN) using TensorFlow. Train the model using a public dataset. The model should be functioning for ***only one*** ocular disease (Ex. Glaucoma) at this point.
 
 **Sprint 1-2**: 
-- Select a public dataset on ocular diseases that will be used as training data, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). 
+- Select a public ocular disease dataset that includes fundus images to be used as training data, such as the following [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k). 
 - Use pandas to access the data and NumPy format it in a dataframe that will be used later. 
 - *Expected length of sprint: 2 weeks.* 
 
