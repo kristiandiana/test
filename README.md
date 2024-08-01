@@ -32,8 +32,4 @@ There will be ***3 available positions for each of the two sub-teams*** indicate
 ### [View the Planning Document](./PLAN.md)
 
 
---------------------------
-good emojis
-### :loudspeaker::bell::eye::health_worker::stethoscope::hospital: :open_file_folder: :file_folder:  :scroll: :open_book: :clipboard: :bookmark_tabs:
-
 </div>
