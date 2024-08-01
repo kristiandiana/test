@@ -20,7 +20,7 @@ The **ocular disease identifier** project involves developing an AI model that c
 
 
 
-The team will comprise of two sub-teams; the Frontend sub-team, and the Backend sub-team. As a brief summary, the main focus of each sub-team is as follows. The Frontend sub-team will be responsible for the development of the web application, as well as an API using a Python framework. The Backend sub-team will be responsible for the development and training of a convolutional neural network (CNN) using TensorFlow. For more information, please see the attached [Planning Document](./PLAN.md) which includes a detailed [Sprint Plan](./PLAN.md#sprint-planning) and proposed [Tech Stack](./PLAN.md#tech-stack) for the project.
+The team will comprise of two sub-teams; the Frontend sub-team, and the Backend sub-team. As a brief summary, the main focus of each sub-team is as follows. The Frontend sub-team is responsible for the development of the web application, as well as an API using a Python framework. The Backend sub-team is responsible for the development of a convolutional neural network (CNN) using TensorFlow. The model is to be trained using a publicly sourced dataset. For more information, please see the attached [Planning Document](./PLAN.md) which includes a detailed [Sprint Plan](./PLAN.md#sprint-planning) and proposed [Tech Stack](./PLAN.md#tech-stack) for the project.
 
 
 
