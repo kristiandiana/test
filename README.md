@@ -13,24 +13,20 @@ If **you** are interested in learning about how AI can be used a difference in t
 
 ## Project Overview :page_with_curl: 
 
-The **ocular disease identifier** project involves developing a AI model that can predict whether common ocular diseases are present in a fundus image (see *Figure 1*).
+The **ocular disease identifier** project involves developing a AI model that can predict whether common ocular diseases are present in a fundus image (see *Figure 1*). A user-friendly web application will be developed to provide easy access to the model.
 
 ![Figure 1](images/Figure1.png)
 <p align="center"><em>Figure 1: High Level Visualization of Project.</em></p>
 
 
 
-The team will comprise of two sub-teams; the Frontend sub-team, and the Backend sub-team. As a brief summary, the main focus of each sub-team is as follows. The Frontend sub-team will be responsible for the development of a web application, and API using a python framework. The Backend sub-team will be responsible for the development and training of a convolutional neural network (CNN) using TensorFlow. For more information, please see the attached [Planning Document](./PLAN.md) which includes a detailed [Sprint Plan](./PLAN.md#sprint-planning) and proposed [Tech Stack](./PLAN.md#tech-stack) for the project.
-
-
+The team will comprise of two sub-teams; the Frontend sub-team, and the Backend sub-team. As a brief summary, the main focus of each sub-team is as follows. The Frontend sub-team will be responsible for the development of the web application, as well as an API using a Python framework. The Backend sub-team will be responsible for the development and training of a convolutional neural network (CNN) using TensorFlow. For more information, please see the attached [Planning Document](./PLAN.md) which includes a detailed [Sprint Plan](./PLAN.md#sprint-planning) and proposed [Tech Stack](./PLAN.md#tech-stack) for the project.
 
 
 
 ## Available Developer Positions :busts_in_silhouette:
 
-
-
-There will be ***3 available positions for each of the two sub-teams*** (6 total). As a side note, being assigned to a specific sub-team does **not** necessarily mean you will not learn about the other, however it **is** where the bulk of your contributions will be made.
+There will be ***3 available positions for each of the two sub-teams*** indicated above (6 total). As a side note, being assigned to a specific sub-team does **not** necessarily mean you will not learn about the other, however it **is** where the bulk of your contributions will be made. Students of all years are encouraged to apply!
 
 
 ### [View the Planning Document](./PLAN.md)
