@@ -29,7 +29,7 @@ The team will comprise of two sub-teams; the Frontend sub-team, and the Backend 
 
 There will be ***3 available positions for each of the two sub-teams*** indicated above (6 total). As a side note, being assigned to a specific sub-team does **not** necessarily mean you will not learn about the other, however it **is** where the bulk of your contributions will be made. Students of all years are encouraged to apply!
 
-
+# For More Information...
 ### [View the Planning Document](./PLAN.md)
 
 
