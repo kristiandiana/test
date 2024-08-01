@@ -71,7 +71,7 @@ Backend devs will work in the backend directory in which the model will be devel
 ![Figure 3](images/Figure3.png)
 <p align="center"><em>Figure 3: Potential Structure of Project.</em></p>
 
-### Hosting 
+### Deployment Plan
 ![Figure 4](images/Architecture.png)
 <p align="center"><em>Figure 4: Architecture Diagram.</em></p>
 
@@ -79,7 +79,7 @@ Backend devs will work in the backend directory in which the model will be devel
 
 ### Team Members
 
-- **Scrum Master & Product Owner:** [Kristian Diana]
+- **Scrum Master & Product Owner:** [Kristian Diana](https://github.com/kristiandiana)
 - **Frontend & API Developers (3):**
   - [Name TBD]
   - [Name TBD]
