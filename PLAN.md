@@ -185,7 +185,7 @@ Develop an API using a Python framework (Ex. Flask, Django, etc.). Develop a web
 - Analyze potential weaknesses of the model, and modify accordingly to increase overall accuracy. Add ability to login on frontend and store profile information. 
 - *Expected length of sprint: 3 weeks.*
 
-s### <u>Milestone 3</u>
+### <u>Milestone 3</u>
 
 **Sprint 9**: 
 - Containerize both the API and Frontend, and deploy the application on GCP (see *Figure 4: Architecture Diagram*) 
