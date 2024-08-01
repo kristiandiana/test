@@ -9,19 +9,18 @@
 
 ## :loudspeaker: Attention :bangbang:
 
-If **you** are interested in learning about how AI can make a difference in the healthcare field, then you are in the right place! Whether you are interested in machine learning, API development, or web development, this project has something for you! 
+If **you** are interested in learning about how AI can be used a difference in the healthcare field, then you are in the right place! Whether you are interested in machine learning, web development, or API development, this project has something for you! 
 
 ## Project Overview :page_with_curl: 
 
-The *ocular disease identifier* project involves developing a AI model that can predict whether common ocular diseases are present in a fundus image (see *Figure 1*).
+The **ocular disease identifier** project involves developing a AI model that can predict whether common ocular diseases are present in a fundus image (see *Figure 1*).
 
 ![Figure 1](images/Figure1.png)
 <p align="center"><em>Figure 1: High Level Visualization of Project.</em></p>
 
 
 
-The team will comprise of two sub-teams; the Frontend sub-team, and the Backend sub-team. 
-The Frontend sub-team will be responsible for the development of a web application, and python api. The Backend sub-team will be responsible for the development and training of a convolutional neural network (CNN) using TensorFlow. For a more detailed overview of exactly what each sub-team will work on, please see the attached [Planning Document](./PLAN.md).
+The team will comprise of two sub-teams; the Frontend sub-team, and the Backend sub-team. As a brief summary, the main focus of each sub-team is as follows. The Frontend sub-team will be responsible for the development of a web application, and API using a python framework. The Backend sub-team will be responsible for the development and training of a convolutional neural network (CNN) using TensorFlow. For more information, please see the attached [Planning Document](./PLAN.md) which includes a detailed [Sprint Plan](./PLAN.md#sprint-planning) and proposed [Tech Stack](./PLAN.md#tech-stack) for the project.
 
 
 
