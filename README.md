@@ -15,6 +15,7 @@ If **you** are interested in learning about how AI can be used a difference in t
 
 The **ocular disease identifier** project involves developing an AI model that can predict whether common ocular diseases are present in a fundus image (see *Figure 1*). A user-friendly web application will be developed to provide easy access to the model.
 
+<br/>
 ![Figure 1](./Documentation/images/Figure1.png)
 <p align="center"><em>Figure 1: High Level Visualization of Project.</em></p>
 
