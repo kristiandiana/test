@@ -38,7 +38,7 @@ There will be ***3 available positions for each of the two sub-teams*** indicate
 | <div style="width:100px"> Contributor </div>                                                                   | Most Used Frameworks/Tools | Notable Contributions |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------- | --------------------- |
 | <img src="Documentation/images/portrait-low-mb.png" alt="Kristian Diana" width="100"/> <br/> **Kristian Diana** <br/> <i/> Project Lead </i> |                            |                       |
-| **Could be you!** | Sampletext1               | Sampletext2          |
+| **Could be you!** |                |           |
 
 
 ## For More Information...
