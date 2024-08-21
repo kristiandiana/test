@@ -32,13 +32,13 @@ The team will comprise of two sub-teams; the Frontend sub-team, and the Backend 
 
 ## Available Developer Positions :busts_in_silhouette:
 
-There will be ***3 available positions for each of the two sub-teams*** indicated above (6 total). As a side note, being assigned to a specific sub-team does **not** necessarily mean you will not learn about the other, however it **is** where the bulk of your contributions will be made. Students of all years are encouraged to apply!
+There will be ***3 available positions for each of the two sub-teams*** indicated above (6 total). As a side note, being assigned to a specific sub-team does **not** necessarily mean you will not learn about the other, however it **is** where the bulk of your contributions will be made. Have you contributions to the project displayed below!
 
 
 | <div style="width:100px"> Contributor </div>                                                                   | Most Used Frameworks/Tools | Notable Contributions |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------- | --------------------- |
 | <img src="Documentation/images/portrait-low-mb.png" alt="Kristian Diana" width="100"/> <br/> **Kristian Diana** <br/> <i/> Project Lead </i> |                            |                       |
-| **Could be you!** <br/> <i/> Role </i> <br/> <img src="path-to-placeholder-image.png" alt="Placeholder" width="100"/> | Sampletext1               | Sampletext2          |
+| **Could be you!** | Sampletext1               | Sampletext2          |
 
 
 ## For More Information...
