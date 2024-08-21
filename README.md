@@ -34,6 +34,12 @@ The team will comprise of two sub-teams; the Frontend sub-team, and the Backend 
 
 There will be ***3 available positions for each of the two sub-teams*** indicated above (6 total). As a side note, being assigned to a specific sub-team does **not** necessarily mean you will not learn about the other, however it **is** where the bulk of your contributions will be made. Students of all years are encouraged to apply!
 
+
+| <div style="width:100px"> Contributor </div>                                                                   | Most Used Frameworks/Tools | Notable Contributions |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------- | --------------------- |
+| <img src="Documentation/images/portrait-low-mb.png" alt="Kristian Diana" width="100"/> <br/> **Kristian Diana** <br/> <i/> Project Lead </i> |                            |                       |
+
+
 ## For More Information...
 ### [View the Project Roadmap](./PROJECT-ROADMAP.md)
 
